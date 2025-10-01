@@ -1,7 +1,7 @@
 name: simple_dial_code
 description: A lightweight, zero-dependency package to convert between country ISO codes and telephone dialing codes.
 version: 1.0.0
-homepage: https://github.com/KULLANICI_ADIN/simple_dial_code 
+homepage: https://github.com/alikperislam/simple_dial_code
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
